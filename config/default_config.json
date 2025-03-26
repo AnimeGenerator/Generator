@@ -1,0 +1,7 @@
+{
+    "api_key": "",
+    "default_style": "shonen",
+    "output_dir": "examples/outputs",
+    "max_resolution": "1024x1024",
+    "log_level": "INFO"
+}

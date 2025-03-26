@@ -1,0 +1,17 @@
+{
+    "shonen": {
+        "color_scheme": "vibrant",
+        "outline": "bold",
+        "background": "action-oriented"
+    },
+    "shoujo": {
+        "color_scheme": "pastel",
+        "outline": "soft",
+        "background": "romantic"
+    },
+    "mecha": {
+        "color_scheme": "metallic",
+        "outline": "sharp",
+        "background": "futuristic"
+    }
+}

@@ -1,7 +1,7 @@
 <h1 align="center">AnimeGenerator</h1>
 
 <p align="center">
-  <img src="mainlogo.png" alt="AnimeGenerator Logo" width="200">
+  <img src="logo.png" alt="AnimeGenerator Logo" width="200">
 </p>
 
 A sophisticated AI-powered tool for generating high-quality anime-style images based on user prompts.
